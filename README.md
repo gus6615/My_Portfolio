@@ -1,3 +1,5 @@
+# This is a portfolio code of 'Dig_For_Money' Project.
+
 # 땅파서 돈벌기 (1인 개발)
 ## 프로젝트 정보<br>
 
