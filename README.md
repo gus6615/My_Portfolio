@@ -28,7 +28,7 @@
 # Revelatio (2023.08.26 ~ 2024.03.07)
 
 ![revelatio_main](https://github.com/gus6615/My_Portfolio/assets/57510872/56a74656-ce75-474e-937d-e58b786a0659) <br>
-🎦 Click [here](https://youtu.be/Ic1hNdHh6zo?si=U1RUmlQZVfgY3bV4) for the 'Youtube video'
+🎦 Click [here](https://youtu.be/nFLd2Lp2qDQ?si=7N6YvZLWNNTjhQd4) for the 'Youtube video'
 <br><br>
 **게임 이름** : Revelatio<br>
 **게임 장르** : 2D 턴제 로그라이크<br>
@@ -55,8 +55,8 @@
 # Ruin_Record (2023.08.12 ~ 2024.03.01)
 
 ![ruin_record_main](https://github.com/gus6615/My_Portfolio/assets/57510872/a75de718-3e4d-4b51-a43c-8497627e4e0e) <br>
-🎦 Click [here](https://drive.google.com/drive/folders/1PfHmCRy3-44Ip6DDI59B8yRfh04I9AKv?usp=drive_link) for the 'Youtube video' <br>
-📂 Click [hear](https://play.google.com/store/apps/details?id=com.CheonnyangCompany.DigForMoney_RTM) for download 'Dig For Money'
+🎦 Click [here](https://youtu.be/z3ZHJkhGzkQ) for the 'Youtube video' <br>
+📂 Click [hear](https://drive.google.com/drive/folders/1PfHmCRy3-44Ip6DDI59B8yRfh04I9AKv?usp=drive_link) for download 'Ruin_Record'
 <br><br>
 **게임 이름** : 폐허, 기록<br>
 **게임 장르** : 2D 쯔꾸르<br>
