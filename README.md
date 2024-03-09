@@ -1,8 +1,8 @@
 # Dig_For_Money (2020.10.04 ~ 2024.02.01)
 
 ![1](https://user-images.githubusercontent.com/57510872/183236594-ca5f7cd4-397f-4e38-9ace-fe0614081222.png)
-Click [Link](https://youtu.be/Ic1hNdHh6zo?si=U1RUmlQZVfgY3bV4) For 'Youtube Video'<br>
-Click [Download](https://play.google.com/store/apps/details?id=com.CheonnyangCompany.DigForMoney_RTM) For '땅파서 돈벌기'<br><br>
+🎦 Click [here](https://youtu.be/Ic1hNdHh6zo?si=U1RUmlQZVfgY3bV4) for the 'Youtube video'<br>
+📂 Click [hear](https://play.google.com/store/apps/details?id=com.CheonnyangCompany.DigForMoney_RTM) for download 'Dig For Money'<br><br>
 
 **게임 이름** : 땅파서 돈벌기 | 광산 노가다 땅파기<br>
 **게임 장르** : 수집형 노가다 RPG<br>
