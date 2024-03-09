@@ -1,4 +1,4 @@
-# 땅파서 돈벌기 | 광산 노가다 땅파기 (2020.10.04 ~ 2024.02.01)
+# Dig_For_Money (2020.10.04 ~ 2024.02.01)
 
 ![1](https://user-images.githubusercontent.com/57510872/183236594-ca5f7cd4-397f-4e38-9ace-fe0614081222.png)
 Click [Link](https://youtu.be/Ic1hNdHh6zo?si=U1RUmlQZVfgY3bV4) For 'Youtube Video'<br>
@@ -19,8 +19,10 @@ Click [Download](https://play.google.com/store/apps/details?id=com.CheonnyangCom
 ☞ 업적<br>
 ☞ 채팅<br><br>
 
-**주요 역할** : 기획 및 개발, 디자인을 직접 진행하였습니다. Unity3D로 제작하였으며 에셋은 사용하지 않았습니다. (1인 개발)
+**주요 역할** : 기획 및 개발, 디자인을 직접 진행하였습니다. Unity3D로 제작하였으며 에셋은 사용하지 않았습니다.
 
 
 <br><br><br><br>
-# 땅파서 돈벌기 | 광산 노가다 땅파기 (2020.10.04 ~ 2024.02.01)
+# Revelatio (2023.08.26 ~ 2024.03.07)
+
+
