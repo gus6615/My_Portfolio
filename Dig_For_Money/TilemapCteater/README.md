@@ -1,6 +1,6 @@
 # 기능: 확장형 오픈월드 맵 생성
 
-![1](https://user-images.githubusercontent.com/57510872/183236594-ca5f7cd4-397f-4e38-9ace-fe0614081222.png)
+![mapCreater](https://github.com/gus6615/My_Portfolio/assets/57510872/3b5cdf4b-31e0-487e-94d7-794ce713a952)
 
 <br><br>
 ☞ 맵이 고정된 형태가 아닌, 확장형 오픈 월드 형태로 맵 제작 <br>
