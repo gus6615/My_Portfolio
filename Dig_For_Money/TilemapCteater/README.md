@@ -2,7 +2,8 @@
 
 ![mapCreater](https://github.com/gus6615/My_Portfolio/assets/57510872/3b5cdf4b-31e0-487e-94d7-794ce713a952)
 
-<br><br>
+**기능: 확장형 오픈월드 맵 생성**
+<br>
 ☞ 맵이 고정된 형태가 아닌, 확장형 오픈 월드 형태로 맵 제작 <br>
 ☞ 맵이 확장될 때, 랜덤 확률을 적용하여 광물과 던전을 생성 <br>
 
