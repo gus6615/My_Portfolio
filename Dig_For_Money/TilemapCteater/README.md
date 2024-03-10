@@ -1,5 +1,3 @@
-# This is a portfolio code of 'Dig_For_Money' Project.
-
 # 기능: 확장형 오픈월드 맵 생성
 
 ![1](https://user-images.githubusercontent.com/57510872/183236594-ca5f7cd4-397f-4e38-9ace-fe0614081222.png)
