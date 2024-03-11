@@ -1,9 +1,9 @@
 # 기능: 확장형 오픈월드 맵 생성
 
-![mapCreater](https://github.com/gus6615/My_Portfolio/assets/57510872/3b5cdf4b-31e0-487e-94d7-794ce713a952)
+![2D_Depth](https://github.com/gus6615/My_Portfolio/assets/57510872/586d62fd-1489-4666-997b-50aed037b8dd)
 
 **기능: 확장형 오픈월드 맵 생성**
-<br>
+<br><br>
 ① 붉은 네모로 마크된 선반 뒤에 플레이어가 존재하니 렌더링 우선순위는 선반이 높다.<br>
 
 ② 플레이어가 선반 앞에 존재하니 렌더링 우선순위는 플레이어가 높다.<br>
@@ -14,6 +14,8 @@
 - 따라서 SpriteRenderer를 가지는 오브젝트를 리스트에 저장<br>
 - 리스트에 저장된 오브젝트를 Y 좌표에 따라 Sort Order를 설정하여 우선순위를 정함<br>
 - **(최적화)** 정적인 오브젝트는 항상 일정한 위치를 가짐. 따라서 플레이어처럼 동적인 오브젝트의 위치 변화가 있을 경우에만 정렬을 수행<br>
+
+![2D_Depth_2](https://github.com/gus6615/My_Portfolio/assets/57510872/ef2ac266-0c54-4984-892b-fa3b76778951)<br>
 
 ### ⚠️ 발생한 이슈
 
