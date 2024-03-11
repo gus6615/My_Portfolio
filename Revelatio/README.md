@@ -1,4 +1,5 @@
 # Revelatio
+## ※ 현재 Revelatio 게임은 스팀 출시 예정이며, Guild Studio에 지적재산권이 있기 때문에 코드를 공개하지 않습니다.
 
 **게임 이름** : Revelatio<br>
 **게임 장르** : 2D 턴제 로그라이크<br>
@@ -18,8 +19,5 @@
 ⑤ 디스플레이 해상도에 대한 UI 설계 (camera rect 조절 및 retter box 활용) <br>
 ⑥ 로컬라이징 기능 구현 (영어 및 한국어 언어 번역 및 선택 구현) <br>
 ⑦ 설정 구현 (해상도 변경 및 창모드, 다국어 설정) <br>
-
-<br>
-<span style="color: red;">※ 현재 Revelatio 게임은 스팀 출시 예정이며, Guild Studio에 지적재산권이 있기 때문에 코드를 공개하지 않습니다.</span>
 
 ![revelatio_main](https://github.com/gus6615/My_Portfolio/assets/57510872/56a74656-ce75-474e-937d-e58b786a0659) <br>
