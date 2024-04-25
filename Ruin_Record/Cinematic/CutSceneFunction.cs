@@ -6,21 +6,11 @@ public abstract class CutSceneFunction : MonoBehaviour
 {
     protected bool isOn;
 
-    public virtual void OnFuntionEnter() 
-    { 
-        isOn = true;
-    }
+    public abstract void OnFuntionEnter();
 
-    public virtual void Play(int actionIdx) { }
+    public abstract void Play(int actionIdx);
 
-    public virtual void OnFuntionUpdate() { }
+    public abstract void OnFuntionUpdate();
 
-    public virtual void OnFunctionExit() 
-    { 
-        isOn = false;
-        this.gameObject.SetActive(false);
-
-        UIManager.PlayerUI.SetKeyOnHUD(PlayerFunction.Interaction);
-        EventCtrl.Instance.CheckEvent(EventTiming.CutScene);
-    }
+    public abstract void OnFunctionExit();
 }
