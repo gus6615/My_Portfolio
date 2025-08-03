@@ -1,4 +1,4 @@
-# Revelatio (2025.01.24 ~ 2025.01.26)
+# S.E.S.C.O (2025.01.24 ~ 2025.01.26)
 
 <img width="1798" height="903" alt="Image" src="https://github.com/user-attachments/assets/f2d10f4e-26f4-4daa-8a45-44d48daa61fa" />
 
